@@ -76,7 +76,7 @@ class MyClass {
     func function(with strings: String...) {
         
     }
-    
+     new
     
 }
 

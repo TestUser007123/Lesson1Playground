@@ -79,7 +79,7 @@ class MyClass {
      new adsadas
     
 }
-
+фывыфв
 struct MyStruct {
     var name: String!
     var age: Int
